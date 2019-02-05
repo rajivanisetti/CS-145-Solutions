@@ -1,0 +1,11 @@
+DecisionTree.py
+
+In order to implement the gain_info and gain_ratio missing code, I simply referenced the slides and filled in the 
+corresponding code segments. In order to pick a leaf in the missing code segments, all of the leaves are the 
+same value, so I chose the first one.
+
+svm.py
+
+In order to implement the missing functions, I once again referenced the slides. I implemented the non-linear 
+functionality by filling a kernel matrix using two nested loops, and then multiplying by the corresponding 
+alpha and y values. 
